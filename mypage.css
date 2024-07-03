@@ -1,21 +1,22 @@
 h1{
     text-align: center;
     text-size-adjust: 2;
-    color:rgb(0, 0, 0);
+    color:rgb(0, 171, 194);
 }
-p{  
+h2{  
     text-align: center;
-    color:rgb(245, 77, 110);
+    color:#ff9e9e;
 }
 a{  
     text-align: center;
-    color:rgb(18, 85, 102);
+    color:green;
 }
 body {
 
     align-items: center;
     background-image: url("wot.jpg");
 }
+
 .center {
     display: block;
     margin-left: auto;
